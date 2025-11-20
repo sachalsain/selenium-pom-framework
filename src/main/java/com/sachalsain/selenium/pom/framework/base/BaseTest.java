@@ -11,8 +11,8 @@ import org.testng.annotations.BeforeMethod;
  */
 public class BaseTest {
 
-    // Protected so tests can access it
-    protected WebDriver driver;
+    // Public so tests can access it
+    public WebDriver driver;
 
     // Setup driver before each test
     @BeforeMethod

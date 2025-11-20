@@ -23,16 +23,30 @@ selenium-pom-framework/
 ├── src/main/java/com/sachalsain/selenium/pom/framework  
 │   ├── pages/  
 │   │   ├── LoginPage.java  
-│   │   ├── DashboardPage.java  
+│   │   └── DashboardPage.java  
 │   │  
 │   └── base/  
 │       └── BaseTest.java  
 │  
 ├── src/test/java/com/sachalsain/selenium/pom/framework  
-│   └── tests/  
-│       └── LoginTests.java  
+│   ├── tests/  
+│   │   ├── LoginTests.java  
+│	│   └── AdvancedLoginTests.java  
+│   ├── utils/  
+│   │   └── ScreenshotUtil.java  
+│   └── listeners/  
+│       └── TestListener.java  
 │  
 └── README.md  
+
+## 📈 What I Learned from This Task
+✔️ Real working automation
+✔️ Real selectors
+✔️ Valid credentials
+✔️ Screenshot on failure
+✔️ TestNG listener
+✔️ Multiple layers of assertions
+✔️ Professional reporting structure
 
 
 ---
