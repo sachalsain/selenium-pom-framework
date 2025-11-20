@@ -48,7 +48,7 @@ public class LoginPage {
 
     // Combined Action: Perform login
     public void login(String username, String password) {
-        // Fill email
+        // Fill username
         enterUsername(username);
         // Fill password
         enterPassword(password);
