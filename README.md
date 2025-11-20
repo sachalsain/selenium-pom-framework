@@ -18,7 +18,22 @@ https://practicetestautomation.com/practice-test-login/
 ---
 
 ## 📁 Project Structure
-<include the project tree>
+selenium-pom-framework/
+│
+├── src/main/java/com/sachalsain/selenium/pom/framework
+│   ├── pages/
+│   │   ├── LoginPage.java
+│   │   ├── DashboardPage.java
+│   │  
+│   └── base/
+│       └── BaseTest.java
+│
+├── src/test/java/com/sachalsain/selenium/pom/framework
+│   └── tests/
+│       └── LoginTests.java
+│
+└── README.md
+
 
 ---
 

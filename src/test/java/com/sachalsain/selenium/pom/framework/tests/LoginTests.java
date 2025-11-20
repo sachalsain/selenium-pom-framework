@@ -1,4 +1,4 @@
-package com.sachalsain.selenium.pom.framework;
+package com.sachalsain.selenium.pom.framework.tests;
 
 import com.sachalsain.selenium.pom.framework.base.BaseTest;
 import com.sachalsain.selenium.pom.framework.pages.DashboardPage;
