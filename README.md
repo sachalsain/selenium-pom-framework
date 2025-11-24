@@ -49,6 +49,13 @@ selenium-pom-framework/
 ✔️ Professional reporting structure
 
 
+✅ Task Completed: Logging Added (SLF4J + Logback)
+### 📈 What I Learned from This Task
+✔ Console + file logging.
+✔ Logs saved in /logs/test-execution.log
+✔ Structuring a basic TestNG test suite.
+✔ Practicing GitHub project documentation for employers.
+
 ---
 
 ## 🧪 Example Test
